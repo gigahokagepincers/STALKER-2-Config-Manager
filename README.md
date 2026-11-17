@@ -1,0 +1,1 @@
+# STALKER-2-Config-Manager
